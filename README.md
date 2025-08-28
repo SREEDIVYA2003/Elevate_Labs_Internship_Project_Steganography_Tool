@@ -8,12 +8,6 @@
 
 ---
 
-## 🌐 Live Demo (Web Version)
-
-▶️ [Try it Online](https://advanced-steganograp-f3g1.bolt.host)
-
----
-
 ## 📦 Project Overview
 
 This repository contains **two implementations** of the steganography tool:
@@ -41,7 +35,7 @@ It provides offline steganography with optional **AES-GCM encryption**.
 
 ```bash
 # Clone the repository
-git clone https://github.com/jagadeep18/Elevate_Labs_Internship_Project_Steganography_Tool.git
+git clone https://github.com/username/Elevate_Labs_Internship_Project_Steganography_Tool.git
 cd Elevate_Labs_Internship_Project_Steganography_Tool/python
 
 # Install dependencies
@@ -135,5 +129,5 @@ Elevate_Labs_Internship_Project_Steganography_Tool/
 ---
 
 ## 👨‍💻 Author
-Developed by **Jagadeep Gorantla**  
+Developed by *B Sree Divya**  
 🧑‍💻 Internship Project @ **Elevate Labs**
